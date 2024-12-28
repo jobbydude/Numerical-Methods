@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\bin\Debug\BisectionMethod.exe.config
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\bin\Debug\BisectionMethod.exe
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\bin\Debug\BisectionMethod.pdb
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\obj\Debug\BisectionMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\obj\Debug\BisectionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\obj\Debug\BisectionMethod.exe
+C:\Users\Admin\Desktop\CODE\GitHub\Numerical-Methods\NumericalMethods\BisectionMethod\obj\Debug\BisectionMethod.pdb
