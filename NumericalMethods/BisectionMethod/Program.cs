@@ -10,6 +10,7 @@ namespace BisectionMethod
     {
         static void Main(string[] args)
         {
+            //code
         }
     }
 }
